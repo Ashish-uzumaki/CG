@@ -1,0 +1,10 @@
+Intel and AMD, differentiate themselves from traditional CPU designs by prioritizing high-throughput processing of
+many parallel operations over the low-latency execution of a single task.
+
+The key to high performance lies in strategies that hardware components and their corresponding software interfaces use
+to keep GPU processing resources busy. GPU designs go to great lengths to obtain high efficiency, conveniently reducing
+the difficulty programmers face when programming graphics applications. As a result, GPUs deliver high performance and
+expose an expressive but simple programming interface. This interface remains largely devoid of explicit parallelism or
+asynchronous execution and has proven to be portable across vendor implementations and generations of GPU designs.
+
+Opengl is a way  of giving hardware independent access to graphics hardware
